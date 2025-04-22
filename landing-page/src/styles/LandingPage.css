@@ -1,0 +1,32 @@
+.cta-button {
+  padding: 0.8rem 1.5rem;
+  background-color: #ff69b4;
+  border: none;
+  color: white;
+  font-size: 1.1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.cta-button:hover {
+  transform: scale(1.05);
+  background-color: #ff85c1;
+}
+
+.preview-section ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.preview-section li {
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+}
+
+.footer {
+  margin-top: 4rem;
+  font-size: 0.9rem;
+  color: #555;
+}
